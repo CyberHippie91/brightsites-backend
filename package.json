@@ -1,0 +1,41 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "development": "mix",
+        "watch": "mix watch",
+        "watch-poll": "mix watch -- --watch-options-poll=1000",
+        "hot": "mix watch --hot",
+        "prod": "npm run production",
+        "production": "mix --production"
+    },
+    "devDependencies": {
+        "@babel/preset-react": "^7.13.13",
+        "axios": "^0.21",
+        
+        "jquery": "^3.6",
+        "laravel-mix": "^6.0.6",
+        "lodash": "^4.17.19",
+        "popper.js": "^1.16.1",
+        "postcss": "^8.1.14",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "sass": "^1.32.11",
+        "sass-loader": "^11.0.1",
+        "@fortawesome/fontawesome-svg-core": "^1.2.35",
+        "@react-icons/all-files": "^4.1.0",
+        "@zeit/next-css": "^1.0.1",
+        "@zeit/next-less": "^1.0.1",
+        "@zeit/next-sass": "^1.0.1",
+        "bootstrap": "^5.0.1",
+        "mocha": "^8.4.0",
+        "next": "10.2.3",
+        "next-images": "^1.7.0",
+        
+        "react-bootstrap": "^1.6.0",
+        
+        "react-router-dom": "^5.2.0",
+        "react-service-worker": "^0.1.1",
+        "webpack": "^5.38.1"
+    }
+}

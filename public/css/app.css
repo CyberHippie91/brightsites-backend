@@ -1,0 +1,49 @@
+.Dash {
+    width:100%;
+    background-color: lightblue;
+    margin: 0;
+}
+
+
+
+.RightCol {
+    background-color: black;
+}
+
+.TopRight {
+    background-color: red;
+    min-height:50%;
+}
+
+.BottomRight {
+    background-color: blue;
+    min-height:50%;
+}
+
+.red {
+    background-color: red;
+    height:auto;
+    width:100%;
+   
+}
+
+.black {
+    background-color: black;
+    width:80%;
+    height:80%;
+}
+
+.profileB {
+    background-color: lightcoral;
+    width: 100%;
+}
+
+.profileB:hover {
+    background-color: lightcyan;
+    color:black
+}
+
+.footer {
+    height:2rem;
+    background-color: white;
+}
